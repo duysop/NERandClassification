@@ -53,4 +53,4 @@ Load arguments in TrainingArguments from Transformer library
 
 # **Evaluate**
 
-![Screenshot 2024-05-22 000234](https://github.com/duysop/Speaker-Recognize/assets/103120531/b182b072-a34a-4f14-8c8b-63d416b669d3)
+![Screenshot 2024-05-22 001454](https://github.com/duysop/NERandClassification/assets/103120531/7de446d1-b40a-41e3-a470-a8243a675c17)
