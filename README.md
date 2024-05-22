@@ -43,7 +43,7 @@ Load arguments in TrainingArguments from Transformer library
 # **Dataset**
     Dataset of 5000+ message from Vietnamese customer 
 ## *Downloading data*
-    Dataset can be download at [Driver](https://docs.google.com/spreadsheets/d/1iiaUl1mmY9vZFNGjfaXxSmIb0aSfOLmv/edit?usp=drive_link&ouid=107321072786087136500&rtpof=true&sd=true)
+Dataset can be download at [Driver](https://docs.google.com/spreadsheets/d/1iiaUl1mmY9vZFNGjfaXxSmIb0aSfOLmv/edit?usp=drive_link&ouid=107321072786087136500&rtpof=true&sd=true)
 
 ## *Create training & testing dataset*
     run file multifr.ipynb
